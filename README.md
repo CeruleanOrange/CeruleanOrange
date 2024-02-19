@@ -1,6 +1,6 @@
-👋 Hi, I’m @CeruleanOrange
+👋 Hi, I’m @CeruleanOrange 🍊🟦
 
-A fruit as colorful as the sky 🍊🟦
+Familiar yet distinctive at the same time. 
 
 19 february 2024:
 I am learning programming for the first time, starting first with Python 
