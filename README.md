@@ -1,7 +1,5 @@
 👋 Hi, I’m @CeruleanOrange 🍊🟦
 
-Familiar yet distinctive at the same time. 
-
 19 february 2024:
 I am learning programming for the first time, starting first with Python 
 and then I will also learn Java. I would like to create a web service first.
